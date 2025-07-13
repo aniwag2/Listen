@@ -9,3 +9,5 @@ cp .env.example .env
 FFmpeg is required.
 Go to https://console.picovoice.ai/ and create a free account. Initialize a wake word.
 Fill your .env file accordingly.
+
+`python listen-email.py`
