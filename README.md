@@ -13,3 +13,7 @@ Fill your .env file accordingly.
 ```
 python listen-email.py
 ```
+or if you want it in the background on Windows:
+```
+pythonw.exe listen-email.py
+```
